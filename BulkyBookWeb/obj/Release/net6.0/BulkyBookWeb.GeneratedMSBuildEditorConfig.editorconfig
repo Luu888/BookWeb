@@ -8,12 +8,16 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BulkyBookWeb
 build_property.RootNamespace = BulkyBookWeb
-build_property.ProjectDir = C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\
+build_property.ProjectDir = C:\Users\t.kosek\source\repos\Luu888\BookWeb\BulkyBookWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb
+build_property.MSBuildProjectDirectory = C:\Users\t.kosek\source\repos\Luu888\BookWeb\BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/t.kosek/source/repos/Luu888/BookWeb/BulkyBookWeb/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/t.kosek/source/repos/Luu888/BookWeb/BulkyBookWeb/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
