@@ -1106,3 +1106,7 @@ C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\obj\Debug\net6.0\Bulky
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
+C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb

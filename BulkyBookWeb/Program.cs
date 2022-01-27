@@ -1,4 +1,4 @@
-using BulkyBookWeb.Data;
+using BulkyBook.DataAccess;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -29,6 +29,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Category}/{action=Index}/");
 
 app.Run();
