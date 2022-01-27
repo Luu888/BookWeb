@@ -9,3 +9,4 @@ C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBook.Models\obj\Debug\net6.0\B
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
 C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\t.kosek\Source\Repos\Luu888\BookWeb\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache

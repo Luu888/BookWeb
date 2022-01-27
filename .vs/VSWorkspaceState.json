@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BulkyBook.DataAccess",
+    "\\BulkyBook.DataAccess\\Data"
   ],
-  "SelectedNode": "\\BulkyBookWeb.sln",
+  "SelectedNode": "\\BulkyBook.DataAccess\\Data\\ApplicationDBContext.cs",
   "PreviewInSolutionExplorer": false
 }
